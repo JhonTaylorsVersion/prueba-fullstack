@@ -1,0 +1,13 @@
+# Global ignores
+node_modules
+dist
+.env
+.DS_Store
+
+# Frontend
+/frontend-prueba1/.output
+/frontend-prueba1/.nuxt
+
+# Backend
+/backend-prueba1/.next
+/backend-prueba1/coverage
